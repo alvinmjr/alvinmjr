@@ -9,7 +9,7 @@
   <li>Bachelor of Science in Information Technology</li>
   <ul>
     <li>New Era University</li>
-    <li>2024 - Prsent</li>
+    <li>2024 - Present</li>
   </ul>
 </ul>
 

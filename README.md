@@ -1,6 +1,6 @@
 ## Hi! 👋 I am Alvin M. Antonio Jr.
 <hr>
-<h4> 🌱 I am currently learning on Information Technology</h2>
+<h4> 👻 I am currently learning on Information Technology</h2>
   <hr>
 
 # Education

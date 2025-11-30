@@ -17,7 +17,7 @@
 
 # Certifications
 <ul>
-  <li><a href="[https://example.com](https://courses.cognitiveclass.ai/certificates/8054981a32844bc182c138cce0bd1588)">SQL and Relational Databases 101</a></li>
+  <li><a href="https://courses.cognitiveclass.ai/certificates/8054981a32844bc182c138cce0bd1588">SQL and Relational Databases 101</a></li>
 </ul>
 
 

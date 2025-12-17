@@ -25,7 +25,9 @@
 <ul>
   <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=213F5B34CD49D7923C092B2BA5DDCEC0FC8631FA4A0CA62025890A29F0908DFB">Oracle Data Platform 2025 Certified Foundations Associate</a></li>
 </ul>
-
+<ul>
+  <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=418341F76C74985F19A597460C1B90E8ADE8D2672A7091D7498C56CDBCCE2963">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
+</ul>
 <!--
 **alvinmjr/alvinmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
